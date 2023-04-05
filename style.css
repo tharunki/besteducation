@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+#navbarSupportedContent ul li a{
+    color: white;
+    border-bottom: 2px solid transparent;
+}
+#navbarSupportedContent ul li a:hover{
+    border-bottom: 2px solid gold;
+}
+.navbar-brand{
+    color: gold !important;
+    font-size: 25px !important;
+    font-family: 'Poppins', sans-serif;
+}
+#callbtn{
+    text-decoration: none;
+    cursor: grab;
+    background: blanchedalmond;
+    border-radius: 25px;
+    padding: 10px 20px 10px 20px;
+    border-color: gold;
+    color: black;
+    font-weight: 540;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+}
+#herosec{
+    background-image: linear-gradient( rgba(0,0,0,0.5),rgba(0,0,0,0.4)),url(pexels-pixabay-256417.jpg);
+    background-position: center;
+    background-size: cover;
+    height: auto;
+    color: gold;
+}
+.row{
+    align-items: center;
+    text-align: center;
+    justify-items: center;
+    justify-content: center;
+}
+#logo{
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+.line{
+    border-top: 5px solid gold;
+}
+p{
+    text-align: justify;
+}
+body{
+    background-color: #e5e5e5 !important;
+}
+#courses h1{
+    text-align: center;
+}
+.img-fluid{
+    border-radius: 20px;
+}
+h2{
+    text-align: center;
+}
+#contactus h1{
+    text-align: center;
+}
